@@ -1,6 +1,6 @@
 # Python Crash Course
 
-1.  **[Python_Crash_Course.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/2.%20Python%20Crash%20Course/Python_Crash_Course.ipynb)** - Arithmetic, Strings, slicing, print formatting, Lists, Dictionaries, Sets, Boolean Logic, Control Statements if/elif/else, range(), list comprehension, Functions, lambda expressions, map/filter, string methods: split () and upper/lower, dictionary methods: keys(), values(), items(), list methods: pop(), append(), in, tuple unpacking.  
+1.  **[Python_Crash_Course.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/2.%20Python%20Crash%20Course/Python_Crash_Course.ipynb)** - Arithmetic, Strings, slicing, print formatting, Lists, Dictionaries, Sets, Boolean Logic, Control Statements if/elif/else, iteration loops for, while, range(), list comprehension, Functions, lambda expressions, map/filter, string methods: split () and upper/lower, dictionary methods: keys(), values(), items(), list methods: pop(), append(), in, tuple unpacking.  
 
 
 #  References
