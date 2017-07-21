@@ -1,6 +1,6 @@
 # Pandas Library
 
-1.  **Pandas.ipynb** - Pandas library commands.  Series, indexing, DataFrame. 
+1.  **Pandas.ipynb** - Pandas library commands.  Series, indexing, DataFrame, conditional selection, row-index set/reset. 
  
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
