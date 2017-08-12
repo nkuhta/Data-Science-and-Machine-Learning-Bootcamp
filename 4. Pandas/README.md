@@ -15,8 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pd.read_csv(), to.csv(), pd.read_excel(), to.excel(), pd.read_html(), pd.read_sql(), to_sql()
 7.  **[SF Salaries Exercise.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/SF%20Salaries%20Exercise.ipynb)**
 
-   Practice Problems in Pandas
-
+   Practice Problems in Pandas  
 4. And another item.
 
    You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
