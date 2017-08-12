@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pd.read_csv(), to.csv(), pd.read_excel(), to.excel(), pd.read_html(), pd.read_sql(), to_sql()  
 7.  **[SF Salaries Exercise.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/SF%20Salaries%20Exercise.ipynb)**  
 <blockquote>Practice Problems in Pandas</blockquote>
-	
+<p style="text-indent: 40px">This text is indented.</p>	
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
 	https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp
