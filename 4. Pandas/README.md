@@ -7,7 +7,8 @@
 3.  **[Pandas_Groupby.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Groupby.ipynb)**  
 &ensp;groupby, mean, sum, std, max/min, count, and describe methods.  
 4.  **[Merge_Join_Concatenate.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Merge_Join_Concatenate.ipynb)**  
-&ensp;appending rows via pd.concat([df1,df2,...]), merge based on key column(s) using pd.merge(), join based on left dataframe rows using left.join(right)
+&ensp;appending rows via pd.concat([df1,df2,...]), merge based on key column(s) using pd.merge(), join based on  
+&ensp;left dataframe rows using left.join(right)
 5.  **[Operations.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Operations.ipynb)**  
 &ensp;unique() and nunique(), boolean selection, apply method, column and row values and deletion, sorting, pivot tables. 
 6.  **[Pandas_Data_Input_Output.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Data_Input_Output.ipynb)**  
