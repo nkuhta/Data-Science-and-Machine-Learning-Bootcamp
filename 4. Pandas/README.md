@@ -1,6 +1,7 @@
 # Pandas Library
 
 1.  **[Pandas_Dataframes.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Dataframes.ipynb)**  
+   
    Pandas library commands.  Series, indexing, DataFrame, conditional selection, row-index set/reset, multi-layer indexing.  
 2.  **[Pandas_Missing_Values.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Missing_Data.ipynb)**  
 Remove NaN dataframe rows/columns with dropna(), threshold, replace NaN values with fillna(). 
