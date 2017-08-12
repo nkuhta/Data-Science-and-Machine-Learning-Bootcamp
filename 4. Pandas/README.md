@@ -3,7 +3,7 @@
 1.  **[Pandas_Dataframes.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Dataframes.ipynb)**  
 &nbsp;&nbsp;&nbsp;Pandas library commands.  Series, indexing, DataFrame, conditional selection, row-index set/reset, multi-layer indexing.  
 2.  **[Pandas_Missing_Values.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Missing_Data.ipynb)**  
-Remove NaN dataframe rows/columns with dropna(), threshold, replace NaN values with fillna(). 
+:::::Remove NaN dataframe rows/columns with dropna(), threshold, replace NaN values with fillna(). 
 3.  **[Pandas_Groupby.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Pandas_Groupby.ipynb)**  
 groupby, mean, sum, std, max/min, count, and describe methods.  
 4.  **[Merge_Join_Concatenate.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/4.%20Pandas/Merge_Join_Concatenate.ipynb)**  
