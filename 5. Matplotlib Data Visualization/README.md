@@ -1,7 +1,7 @@
 # Matplotlib
 
 1.  **[Matplotlib.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/5.%20Matplotlib%20Data%20Visualization/Matplotlib.ipynb)**  
-&ensp;  Plotting and visualization
+&ensp;  Plotting and visualization, functional and object-oriented plotting. 
 
  
 #  References
