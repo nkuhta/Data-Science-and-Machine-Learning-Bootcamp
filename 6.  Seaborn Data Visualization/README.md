@@ -2,7 +2,7 @@
 
 1.  **[Seaborn_Distribution_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Distribution_Plots.ipynb)**  
 &ensp;	Distribution plots, jointplots, pairplot, rugplot, kdeplot
-2.  **[Seaborn_Categorical_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Distribution_Plots.ipynb)**  
+2.  **[Seaborn_Categorical_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Categorical_Plots.ipynb)**  
 &ensp;	Bar plot, countplot, 
 
  
