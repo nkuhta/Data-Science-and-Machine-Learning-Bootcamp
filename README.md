@@ -5,7 +5,7 @@
 3.  **[Numpy](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/3.%20Numpy)** - Linear Algebra library and commands. 
 4.  **[Pandas](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/4.%20Pandas)** - Dataframes python library. 
 5.  **[Matplotlib](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/5.%20Matplotlib%20Data%20Visualization)** - Data visualization techniques using Matplotlib libary. 
-6.  **[Seaborn](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/5.%20Matplotlib%20Data%20Visualization)** - Statistical data visualization on top of Matplotlib libary. 
+6.  **[Seaborn](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/6.%20%20Seaborn%20Data%20Visualization)** - Statistical data visualization on top of Matplotlib libary. 
 
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
