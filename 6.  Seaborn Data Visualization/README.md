@@ -11,7 +11,7 @@
 5.  **[Seaborn_Regression_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Regression_Plots.ipynb)**  
 &ensp;	lmplot, hue, markers, row/col, aspect/size 
 6.  **[Seaborn_Style_and_Color.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Style_and_Color.ipynb)**  
-&ensp;	ticks, darkgrid, despine, figsize, set_context
+&ensp;	ticks, darkgrid, despine, figsize, set_context, font_scale, palette, matplotlib colormaps
  
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
