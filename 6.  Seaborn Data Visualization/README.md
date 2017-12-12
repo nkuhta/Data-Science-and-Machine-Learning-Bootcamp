@@ -8,7 +8,8 @@
 &ensp;	Creating a matrix with pivottable, heatmap, clustermap
 4.  **[Seaborn_Grids.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Grids.ipynb)**  
 &ensp;	pairplot, PairGrid, FacetGrid
-
+4.  **[Seaborn_Regression_Plots.ipynb]()**  
+&ensp;	lmplot, 
  
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
