@@ -12,6 +12,8 @@
 &ensp;	lmplot, hue, markers, row/col, aspect/size 
 6.  **[Seaborn_Style_and_Color.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Style_and_Color.ipynb)**  
 &ensp;	ticks, darkgrid, despine, figsize, set_context, font_scale, palette, matplotlib colormaps
+7.  **[Seaborn Exercises.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn%20Exercises%20.ipynb)**  
+&ensp;	Practice graphing problems with Titanic data set.  
  
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
