@@ -1,9 +1,9 @@
 # Matplotlib
 
-1.  **[Matplotlib.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/5.%20Matplotlib%20Data%20Visualization/Matplotlib.ipynb)**  
+1.  **[Matplotlib.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/05.%20Matplotlib%20Data%20Visualization/Matplotlib.ipynb)**  
 &ensp;  Plotting and visualization, functional and object-oriented plotting, axes, subplots(), figsize, dpi, legend, savefig,  
 &ensp;  linewidth, linestyle, markers. 
-2.  **[Matplotlib Excercises.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/5.%20Matplotlib%20Data%20Visualization/Matplotlib%20Exercises%20.ipynb)**  
+2.  **[Matplotlib Excercises.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/05.%20Matplotlib%20Data%20Visualization/Matplotlib%20Exercises%20.ipynb)**  
 &ensp;	Practice plotting with matplotlib
 
 
