@@ -1,8 +1,8 @@
 # Pandas Data Visualization
 
-1.  **[Pandas_Data_Visualization.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/7.%20%20Pandas%20Visualization/Pandas_Data_Visualization.ipynb)**  
+1.  **[Pandas_Data_Visualization.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/07.%20%20Pandas%20Visualization/Pandas_Data_Visualization.ipynb)**  
 &ensp;  Histograms, area plots, bar plots, line plot, scatter plot, box plot, hexbin, kde/density
-2.  **[Pandas Data Visualization Exercise.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/7.%20%20Pandas%20Visualization/Pandas%20Data%20Visualization%20Exercise%20.ipynb)**  
+2.  **[Pandas Data Visualization Exercise.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/07.%20%20Pandas%20Visualization/Pandas%20Data%20Visualization%20Exercise%20.ipynb)**  
 &ensp;  Practice plotting examples 
  
 #  References
