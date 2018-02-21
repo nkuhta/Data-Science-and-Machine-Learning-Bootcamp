@@ -7,7 +7,7 @@
 5.  **[Matplotlib](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/05.%20Matplotlib%20Data%20Visualization)** - Data visualization techniques using Matplotlib libary. [[ipynb]](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/05.%20Matplotlib%20Data%20Visualization/Matplotlib.ipynb)
 6.  **[Seaborn](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/06.%20%20Seaborn%20Data%20Visualization)** - Statistical data visualization libary.
 7.  **[Pandas Data Visualization](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/07.%20%20Pandas%20Visualization)** - Pandas built in visualization library. [[ipynb]](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/07.%20%20Pandas%20Visualization/Pandas_Data_Visualization.ipynb)
-8.  **[Plotly and Cufflinks](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/8.%20%20Plotly%20and%20Cufflinks)** - Plotly and Cufflinks interactive data visualization libraries. [[ipynb]](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/8.%20%20Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
+8.  **[Plotly and Cufflinks](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/tree/master/08.%20%20Plotly%20and%20Cufflinks)** - Plotly and Cufflinks interactive data visualization libraries. [[ipynb]](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/08.%20%20Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
 
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
