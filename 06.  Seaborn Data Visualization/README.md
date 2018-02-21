@@ -1,18 +1,18 @@
 # Seaborn
 
-1.  **[Seaborn_Distribution_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Distribution_Plots.ipynb)**  
+1.  **[Seaborn_Distribution_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn_Distribution_Plots.ipynb)**  
 &ensp;	Distribution plots, jointplots, pairplot, rugplot, kdeplot
-2.  **[Seaborn_Categorical_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Categorical_Plots.ipynb)**  
+2.  **[Seaborn_Categorical_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn_Categorical_Plots.ipynb)**  
 &ensp;	Bar plot, countplot, boxplot (whisker), hue, violinplot, stripplot, swarmplot, factorplot
-3.  **[Seaborn_Matrix_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Categorical_Plots.ipynb)**  
+3.  **[Seaborn_Matrix_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn_Matrix_Plots.ipynb)**  
 &ensp;	Creating a matrix with pivottable, heatmap, clustermap
-4.  **[Seaborn_Grids.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Grids.ipynb)**  
+4.  **[Seaborn_Grids.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn_Grids.ipynb)**  
 &ensp;	pairplot, PairGrid, FacetGrid
-5.  **[Seaborn_Regression_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Regression_Plots.ipynb)**  
+5.  **[Seaborn_Regression_Plots.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn_Regression_Plots.ipynb)**  
 &ensp;	lmplot, hue, markers, row/col, aspect/size 
-6.  **[Seaborn_Style_and_Color.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn_Style_and_Color.ipynb)**  
+6.  **[Seaborn_Style_and_Color.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn_Style_and_Color.ipynb)**  
 &ensp;	ticks, darkgrid, despine, figsize, set_context, font_scale, palette, matplotlib colormaps
-7.  **[Seaborn Exercises.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/6.%20%20Seaborn%20Data%20Visualization/Seaborn%20Exercises%20.ipynb)**  
+7.  **[Seaborn Exercises.ipynb](https://github.com/nkuhta/Data-Science-and-Machine-Learning-Bootcamp/blob/master/06.%20%20Seaborn%20Data%20Visualization/Seaborn%20Exercises%20.ipynb)**  
 &ensp;	Practice graphing problems with Titanic data set.  
  
 #  References
