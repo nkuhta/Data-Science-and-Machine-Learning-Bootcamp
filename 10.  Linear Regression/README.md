@@ -1,6 +1,6 @@
 # Linear Regression
-1.  **[]()**  
-&ensp;  
+1.  **[LInear Regression]()**  
+&ensp;  Preparing training and test data with random sampling, some general data exploring, sklearn Linear Regression
 
 #  References
 1.  **Python for Data Science and Machine Learning Bootcamp** - Udemy   
